@@ -65,13 +65,21 @@ function easy(){
 
                         //******************Que.num 06 *******************************/
 
-function RUN(){
-   let para=document.querySelector(#text);
+function hii(){
+   let para=document.querySelector("#text");
    para.innerHTML="Hello";
    para.style.color="red";
    para.style.fontSize="50px";
 
 }
+
+
+function hlo(){
+    let write =document.querySelector("#write");
+    write.innerHTML="cybrom";
+
+}
+
 
 
 
